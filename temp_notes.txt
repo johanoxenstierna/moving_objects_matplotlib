@@ -1,7 +1,0 @@
-000 folders pics
-005 https://www.flickr.com/photos/gandalfsgallery/5918139890/in/photostream/
-010 imshow background
-015 add_alpha_layer , put pics in processed
-020 set up animation loop
-025 compute_movement() + run it
-030 WRITE or animate
