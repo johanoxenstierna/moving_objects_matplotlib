@@ -11,7 +11,7 @@ import time
 # affine cv2 ====
 import cv2
 
-FPS = 20
+FPS = 20  #
 
 WRITE = 0
 Writer = animation.writers['ffmpeg']
